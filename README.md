@@ -5,8 +5,6 @@
 <p align="center"> <img src="https://github.com/user-attachments/assets/e2f4724e-f055-4405-9ced-5762840375f5"
 width="670" </p>
 
-<p align ="center">
- $\color{#d7a0a9}{\textsf{ 𝚑𝚎𝚕𝚕𝚘, 𝚌𝚊𝚕𝚕 𝚖𝚎 𝚂𝚞𝚗𝚗𝚢 !! }}$ </p>
  <p align ="center">
  $\color{#d7a0a9}{\textsf{ 𝚂𝚞𝚗𝚜𝚝𝚛𝚎𝚊𝚔𝚎𝚛 𝚜𝚎𝚕𝚏-𝚒𝚗𝚜𝚎𝚛𝚝 ♡ . }}$ </p>
    <p align ="center">
