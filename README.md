@@ -6,5 +6,5 @@
 width="670" </p>
 
  <p align ="center">
- $\color{#d7a0a9}{\textsf{ 𝚂𝚞𝚗𝚜𝚝𝚛𝚎𝚊𝚔𝚎𝚛 𝚜𝚎𝚕𝚏-𝚒𝚗𝚜𝚎𝚛𝚝 ♡ . }}$ </p>
+ $\color{#d7a0a9}{\textsf{ daily click for Palestine below ♡ . }}$ </p>
    <p align ="center">
