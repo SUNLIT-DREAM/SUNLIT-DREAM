@@ -6,7 +6,7 @@
 width="670" </p>
 
  <p align ="center">
- $\color{#a986dc}{\textsf{ daily click for Palestine below ♡ . }}$ </p>
+ $\color{#a986dc}{\textsf{ daily click for Palestine in links ♡ . }}$ </p>
    <p align ="center">
 
   <p align="center">
