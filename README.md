@@ -8,3 +8,6 @@ width="670" </p>
  <p align ="center">
  $\color{#d7a0a9}{\textsf{ daily click for Palestine below ♡ . }}$ </p>
    <p align ="center">
+ <p align ="center">
+ $\color{#d7a0a9}{\textsf{ my layout was made primarily with PC users in mind . }}$ </p>
+   <p align ="center">
