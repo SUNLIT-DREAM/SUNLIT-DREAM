@@ -10,7 +10,7 @@ width="670" </p>
    <p align ="center">
 
   <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=georgia&size=20&duration=4500&pause=1230&color=c3add0&center=true&width=650&height=30&lines=≪+𝘞𝘩𝘦𝘯+𝘵𝘩𝘦+𝘴𝘩𝘢𝘥𝘰𝘸𝘴+𝘣𝘦𝘨𝘪𝘯+𝘵𝘰+𝘣𝘦𝘧𝘢𝘭𝘭+𝘶𝘱𝘰𝘯+𝘺𝘰𝘶+≫;≪+𝘢𝘯𝘥+𝘵𝘩𝘦+𝘥𝘢𝘳𝘬𝘯𝘦𝘴𝘴+𝘤𝘳𝘦𝘦𝘱𝘴+𝘶𝘱+𝘧𝘳𝘰𝘮+𝘪𝘵𝘴+𝘥𝘦𝘱𝘵𝘩𝘴+𝘵𝘰+𝘴𝘸𝘢𝘭𝘭𝘰𝘸+𝘺𝘰𝘶+𝘸𝘩𝘰𝘭𝘦,+≫;≪+𝘥𝘰𝘯'𝘵+𝘤𝘳𝘺+𝘰𝘶𝘵+—+𝘧𝘰𝘳+𝘐+𝘩𝘢𝘷𝘦+𝘧𝘰𝘳𝘦𝘸𝘢𝘳𝘯𝘦𝘥+𝘺𝘰𝘶,+≫;≪+𝘢𝘯𝘥+𝘯𝘰𝘸+𝘺𝘰𝘶+𝘴𝘩𝘢𝘭𝘭+𝘣𝘦𝘢𝘳+𝘵𝘩𝘦+𝘤𝘰𝘯𝘴𝘦𝘲𝘶𝘦𝘯𝘤𝘦𝘴+.+≫"
+<img src="https://readme-typing-svg.herokuapp.com?font=georgia&size=20&duration=4500&pause=1230&color=c3add0&center=true&width=650&height=30&lines=≪+𝘞𝘩𝘦𝘯+𝘵𝘩𝘦+𝘴𝘩𝘢𝘥𝘰𝘸𝘴+𝘣𝘦𝘨𝘪𝘯+𝘵𝘰+𝘣𝘦𝘧𝘢𝘭𝘭+𝘶𝘱𝘰𝘯+𝘺𝘰𝘶+≫;≪+𝘢𝘯𝘥+𝘵𝘩𝘦+𝘥𝘢𝘳𝘬𝘯𝘦𝘴𝘴+𝘤𝘳𝘦𝘦𝘱𝘴+𝘶𝘱+𝘧𝘳𝘰𝘮+𝘪𝘵𝘴+𝘥𝘦𝘱𝘵𝘩𝘴+𝘵𝘰+𝘴𝘸𝘢𝘭𝘭𝘰𝘸+𝘺𝘰𝘶+𝘸𝘩𝘰𝘭𝘦,+≫;≪+𝘥𝘰𝘯'𝘵+𝘤𝘳𝘺+𝘰𝘶𝘵+—+𝘧𝘰𝘳+𝘐+𝘩𝘢𝘷𝘦+𝘧𝘰𝘳𝘦𝘸𝘢𝘳𝘯𝘦𝘥+𝘺𝘰𝘶,+≫;≪+𝘢𝘯𝘥+𝘯𝘰𝘸+𝘺𝘰𝘶+𝘴𝘩𝘢𝘭𝘭+𝘣𝘦𝘢𝘳+𝘵𝘩𝘦+𝘤𝘰𝘯𝘴𝘦𝘲𝘶𝘦𝘯𝘤𝘦𝘴+𝘰𝘧+𝘺𝘰𝘶𝘳+𝘪𝘨𝘯𝘰𝘳𝘢𝘯𝘤𝘦+.+≫"
 " title="soundwave.mp3" alt="Typing SVG" />
 </div>
 </p>
