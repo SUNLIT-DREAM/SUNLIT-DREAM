@@ -14,5 +14,3 @@ width="670" </p>
 " title="soundwave.mp3" alt="Typing SVG" />
 </div>
 </p>
-
-<sub>Hai hello—I need a character suggestion for a new theme for this github page because I want to move everything on *this* page onto my main account... So if u have a suggestion for a Transformer I could turn into a layout that you could whisper me or something, i'd appreciate it tons ok? I'm having a hard time thinking of anyone else that I would want to add on here. Anyone is fine, as long as I'm able to make their layout look cute. thankyu !!</sub>
